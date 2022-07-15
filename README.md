@@ -1,3 +1,18 @@
+In this challenge, we are presented with 2 separate scenarios to perform Data Analysis in!
+
+In the First challenge we are tasked as a banking Analyst to present:
+Total Months,Total Profit, Average Profit, Greatest profit and greatest Loss from a csv file containing the revenue values of a particular bank.
+
+In the second challenge we are tasks with something more ardous, determine the results of a county Elections, we are tasked to create a script in order to present:
+Total vote count, Individual candidates and the votes they accrued and finally, the WINNER!
+
+This was a very exciting challenge to figure out and I hope I have done justice to the way it is meant to be presented.
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+
 # Unit 3 Homework: Python
 
 In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
